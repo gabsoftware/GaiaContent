@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GaiaContent", "GaiaContent\GaiaContent\GaiaContent.csproj", "{4D978EFB-D3AB-4259-A3BD-439D697E64B6}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "GaiaContentContent", "GaiaContent\GaiaContentContent\GaiaContentContent.contentproj", "{89175927-0E6C-4E9B-8DD0-C921C460139A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D978EFB-D3AB-4259-A3BD-439D697E64B6}.Debug|x86.ActiveCfg = Debug|x86
+		{4D978EFB-D3AB-4259-A3BD-439D697E64B6}.Debug|x86.Build.0 = Debug|x86
+		{4D978EFB-D3AB-4259-A3BD-439D697E64B6}.Release|x86.ActiveCfg = Release|x86
+		{4D978EFB-D3AB-4259-A3BD-439D697E64B6}.Release|x86.Build.0 = Release|x86
+		{89175927-0E6C-4E9B-8DD0-C921C460139A}.Debug|x86.ActiveCfg = Debug|x86
+		{89175927-0E6C-4E9B-8DD0-C921C460139A}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
