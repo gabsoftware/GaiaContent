@@ -1,4 +1,4 @@
-gaiacontent
+GaiaContent
 ===========
 
 Content for Gaia
